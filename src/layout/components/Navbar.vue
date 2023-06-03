@@ -16,11 +16,11 @@
               主页
             </el-dropdown-item>
           </router-link>
-          <!-- 
-            <a target="_blank" href="https://github.com/PanJiaChen/vue-admin-template/">
+          
+            <a target="_blank" href="https://github.com/Toddd77/demo-fe">
             <el-dropdown-item>Github</el-dropdown-item>
           </a> 
-          -->
+         
           <el-dropdown-item divided @click.native="logout">
             <span style="display:block;">注销</span>
           </el-dropdown-item>
